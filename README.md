@@ -57,7 +57,7 @@ Database.java – Manages database connections and queries.
 CustomLabel.java, JButton.java, JComboBox.java, JPasswordField.java, JTable.java, JTextField.java – Various GUI components used for the user interface.
 
 # Technology Stack
-Programming Language: Java (JavaSE-21)
-Architecture: MVC (Model-View-Controller)
-GUI Framework: Java Swing for UI components
+Programming Language: Java (JavaSE-21),
+Architecture: MVC (Model-View-Controller),
+GUI Framework: Java Swing for UI components,
 Database Management: Handled using Database.java
