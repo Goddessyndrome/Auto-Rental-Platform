@@ -1,11 +1,12 @@
-# AutoRentalPlatform
+# Auto Rental Platform
 Created a Vehicle Rental System using Java OOPs  concepts with an MVC architecture and JSwing, including features for user account management, vehicle inventory management, rental operations, and user roles (Admin, Client, User)
 
-Project Overview
+# Project Overview
 The Auto Rental Platform is a Java-based application that enables users to rent, return, and manage vehicle rentals efficiently. The system follows an MVC (Model-View-Controller) architecture to ensure modularity and scalability.
 
-Project Structure
-1. Controller (Business Logic)
+# Project Structure
+
+# 1. Controller (Business Logic)
 The Controller package contains Java classes that handle the core functionality of the car rental system, including user actions, authentication, and car management.
 
 Key Classes & Functionalities:
@@ -35,7 +36,8 @@ System Control:
 
 Main.java – The entry point of the application. It initializes the system and starts the user interface.
 Quit.java – Exits the system safely.
-2. Model (Data Representation)
+
+# 2. Model (Data Representation)
 The Model package contains Java classes that define the structure and attributes of key entities in the system.
 
 Key Classes:
@@ -53,7 +55,8 @@ Database & Utility Classes:
 
 Database.java – Manages database connections and queries.
 CustomLabel.java, JButton.java, JComboBox.java, JPasswordField.java, JTable.java, JTextField.java – Various GUI components used for the user interface.
-Technology Stack
+
+# Technology Stack
 Programming Language: Java (JavaSE-21)
 Architecture: MVC (Model-View-Controller)
 GUI Framework: Java Swing for UI components
