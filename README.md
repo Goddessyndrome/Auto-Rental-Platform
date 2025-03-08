@@ -12,11 +12,17 @@ The Controller package contains Java classes that handle the core functionality 
 * Key Classes & Functionalities:
 
 Account & User Management:
-a. AddNewAccount.java – Handles account creation for users.
-b. AddNewAdmin.java – Allows adding new admin users.
+
+AddNewAccount.java – Handles account creation for users.
+
+AddNewAdmin.java – Allows adding new admin users.
+
 AddNewClient.java – Registers new clients in the system.
+
 EditUserData.java – Edits user details such as name and contact information.
+
 ChangePassword.java – Allows users to update their passwords.
+
 Car Rental Operations:
 
 AddNewCar.java – Adds a new car to the rental inventory.
