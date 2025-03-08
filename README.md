@@ -9,11 +9,11 @@ The Auto Rental Platform is a Java-based application that enables users to rent,
 # 1. Controller (Business Logic)
 The Controller package contains Java classes that handle the core functionality of the car rental system, including user actions, authentication, and car management.
 
-Key Classes & Functionalities:
-Account & User Management:
+* Key Classes & Functionalities:
 
-AddNewAccount.java – Handles account creation for users.
-AddNewAdmin.java – Allows adding new admin users.
+Account & User Management:
+a. AddNewAccount.java – Handles account creation for users.
+b. AddNewAdmin.java – Allows adding new admin users.
 AddNewClient.java – Registers new clients in the system.
 EditUserData.java – Edits user details such as name and contact information.
 ChangePassword.java – Allows users to update their passwords.
@@ -40,7 +40,7 @@ Quit.java – Exits the system safely.
 # 2. Model (Data Representation)
 The Model package contains Java classes that define the structure and attributes of key entities in the system.
 
-Key Classes:
+* Key Classes:
 User & Authentication Models:
 
 Admin.java – Represents admin users.
